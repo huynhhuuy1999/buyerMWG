@@ -1,0 +1,16 @@
+version: '1.0.0'
+
+services:
+  nextjs:
+    container_name: buyer-ecommerce
+    image: buyer-ecommerce
+    build:
+      context: .
+      target: development
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/usr/src/app'
+      - '/usr/src/app/node_modules'
+      - /usr/src/app/.next
+    ports:
+      - 80:80

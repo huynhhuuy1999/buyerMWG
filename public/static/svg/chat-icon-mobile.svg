@@ -1,0 +1,28 @@
+<svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2667_16892)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.1111 30C23.4567 30 30.2222 23.2843 30.2222 15C30.2222 6.71573 23.4567 0 15.1111 0C6.76547 0 0 6.71573 0 15C0 19.5331 2.0257 23.5965 5.22755 26.347L5.22755 30.8657C5.22755 31.6319 6.06041 32.1092 6.72892 31.7261L10.8141 29.3849C12.1761 29.7851 13.6183 30 15.1111 30Z" fill="#4527A0"/>
+<ellipse cx="15.1308" cy="15" rx="8.07803" ry="8" fill="url(#paint0_radial_2667_16892)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.903 11.2881L18.498 12.779H20.0048L20.4092 11.2881H18.903Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.757 12.7764H13.2508L12.8477 14.2673H14.3527L14.757 12.7764Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.0994 14.2673L18.5019 12.7764H16.9981L16.5938 14.2673H18.0994Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.8515 14.2627H11.3465L10.9434 15.7522H12.4478L12.8515 14.2627Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.2247 14.2673L16.6289 12.7764H15.123L14.7207 14.2673H16.2247Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.1547 14.6182H14.6473L14.2441 16.1076H15.7515L16.1547 14.6182Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.0983 14.2673L18.5031 12.7764H16.9993L16.5938 14.2673H18.0983Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.8965 17.9523H13.4003L13.8041 16.46H12.2991L11.8965 17.9523Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.5508 16.46H16.0457L15.6426 17.9523H17.1476L17.5508 16.46Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.99023 19.4387H11.4948L11.8974 17.9463H10.3952L9.99023 19.4387Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.7402 19.4387H18.2447L18.648 17.9463H17.1428L16.7402 19.4387Z" fill="#020000"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.4203 11.1998C17.4203 11.8805 16.8616 12.4332 16.1717 12.4332C15.4846 12.4332 14.9258 11.8805 14.9258 11.1998C14.9258 10.5161 15.4846 9.96484 16.1717 9.96484C16.8616 9.96484 17.4203 10.5161 17.4203 11.1998Z" fill="#020000"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_2667_16892" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(15.1308 15) rotate(90) scale(8 8.07803)">
+<stop stop-color="#FFEE06"/>
+<stop offset="0.667171" stop-color="#FFEF04"/>
+<stop offset="1" stop-color="#FCD21F"/>
+</radialGradient>
+<clipPath id="clip0_2667_16892">
+<rect width="30.2222" height="32" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>

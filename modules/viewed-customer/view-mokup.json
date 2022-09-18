@@ -1,0 +1,2795 @@
+{
+    "code": "200",
+    "message": "Success",
+    "data": [
+        {
+            "id": 11945,
+            "title": "Túi Xách Unisex Puma Small Gym Duffel 077362",
+            "merchant": {
+                "id": "797806c3-a48d-415b-9da4-4f3f76c2ddf2",
+                "merchantId": 281,
+                "userId": "8e72d9a3-f51b-48a4-a813-fdbec9cdec78",
+                "name": "thời trang nữ",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 11945,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 1,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-19T00:00:00",
+            "expirationDate": "2022-02-19T00:00:00",
+            "price": 999000,
+            "priceTo": 999000,
+            "categoryIds": [
+                19
+            ],
+            "categoryFullPath": [
+                1,
+                18,
+                19
+            ],
+            "categoryId": 19,
+            "partnerCategoryId": 0,
+            "categoryName": "Túi xách, Balo",
+            "categoryUrlSlug": "vi-tui-xach-nu",
+            "merchantId": 281,
+            "madeinId": 0,
+            "brandId": 3213,
+            "partnerBrandId": 0,
+            "brandName": "Puma",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Balo thể thao 28",
+            "variations": [
+                {
+                    "variationId": 27503,
+                    "sku": "77362",
+                    "price": 999000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/546135cdee4969ce5c619aa958b2f25e",
+                    "quantities": [
+                        {
+                            "warehouseId": "ffe0628c-6312-4717-bd64-63fafdd45aef",
+                            "warehouseName": "quan 9",
+                            "warehouseAddress": "ttt",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "tui-xach-unisex-puma-small-gym-duffel-077362-pid-11945",
+            "importTaskId": 925,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2514,
+            "brandRangeName": "Puma",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 11946,
+            "title": "Ba Lô Tập Luyện Puma 7690501",
+            "merchant": {
+                "id": "797806c3-a48d-415b-9da4-4f3f76c2ddf2",
+                "merchantId": 281,
+                "userId": "8e72d9a3-f51b-48a4-a813-fdbec9cdec78",
+                "name": "thời trang nữ",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 11946,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-19T00:00:00",
+            "expirationDate": "2022-02-19T00:00:00",
+            "price": 1099000,
+            "priceTo": 1099000,
+            "categoryIds": [
+                19
+            ],
+            "categoryFullPath": [
+                1,
+                18,
+                19
+            ],
+            "categoryId": 19,
+            "partnerCategoryId": 0,
+            "categoryName": "Túi xách, Balo",
+            "categoryUrlSlug": "vi-tui-xach-nu",
+            "merchantId": 281,
+            "madeinId": 0,
+            "brandId": 3213,
+            "partnerBrandId": 0,
+            "brandName": "Puma",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Balo thể thao 29",
+            "variations": [
+                {
+                    "variationId": 27504,
+                    "sku": "7690501",
+                    "price": 1099000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/eecad9b5120c7595041b670d28715e70",
+                    "quantities": [
+                        {
+                            "warehouseId": "ffe0628c-6312-4717-bd64-63fafdd45aef",
+                            "warehouseName": "quan 9",
+                            "warehouseAddress": "ttt",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "ba-lo-tap-luyen-puma-7690501-pid-11946",
+            "importTaskId": 925,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2514,
+            "brandRangeName": "Puma",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 18148,
+            "title": "Đồng hồ Nam Orient FAC0000DD0 - Cơ tự động",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 18148,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-25T00:00:00",
+            "expirationDate": "2022-02-25T00:00:00",
+            "price": 5990000,
+            "priceTo": 5990000,
+            "categoryIds": [
+                44
+            ],
+            "categoryFullPath": [
+                26,
+                41,
+                44
+            ],
+            "categoryId": 44,
+            "partnerCategoryId": 0,
+            "categoryName": "Đồng hồ cho nam",
+            "categoryUrlSlug": "dong-ho-cho-nam",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 3275,
+            "partnerBrandId": 0,
+            "brandName": "ORIENT",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "ĐH avaji 210",
+            "variations": [
+                {
+                    "variationId": 33305,
+                    "sku": "ĐH avaji 210",
+                    "price": 5990000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/25022022/9de57c68a6c1db19e490f6e32406eab4",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "dong-ho-nam-orient-fac0000dd0-co-tu-dong-pid-18148",
+            "importTaskId": 956,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2576,
+            "brandRangeName": "ORIENT",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 18279,
+            "title": "Giày Sandal Đế Thể Thao Phối Khóa Trang Trí",
+            "merchant": {
+                "id": "f7aae6de-3f7e-4c01-9a53-ce740781c0a8",
+                "merchantId": 350,
+                "userId": "ae736c47-e525-4e07-94ef-ee0ec7451fd2",
+                "name": "Ket thuc",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "48 Mtasdfghjkl;",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 18279,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 1,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-03-01T00:00:00",
+            "expirationDate": "2022-03-01T00:00:00",
+            "price": 446000,
+            "priceTo": 446000,
+            "categoryIds": [
+                14
+            ],
+            "categoryFullPath": [
+                1,
+                10,
+                14
+            ],
+            "categoryId": 14,
+            "partnerCategoryId": 0,
+            "categoryName": "Giày sandal cho nữ",
+            "categoryUrlSlug": "giay-sandal-cho-nu",
+            "merchantId": 350,
+            "madeinId": 0,
+            "brandId": 1511,
+            "partnerBrandId": 0,
+            "brandName": "Juno",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "SD02",
+            "variations": [
+                {
+                    "variationId": 33636,
+                    "sku": "SD02",
+                    "price": 446000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 25184,
+                    "propertyValueName1": "Da mềm",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 1646,
+                    "propertyValue1RangeName": "Da mềm",
+                    "propertyValueId2": 25181,
+                    "propertyValueName2": "Kem",
+                    "propertyValue2Type": 2,
+                    "propertyValue2RangeId": 1643,
+                    "propertyValue2RangeName": "Kem",
+                    "variationImage": "https://testcdn.vuivui.com/product/01032022/28f803a49a49c6871e99f981601f251c",
+                    "quantities": [
+                        {
+                            "warehouseId": "99d2c797-6fec-4472-8dba-77259918b4be",
+                            "warehouseName": "Yên Bái",
+                            "warehouseAddress": "56 bến Thành",
+                            "quantity": 2310
+                        }
+                    ],
+                    "totalQuantity": 2310,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": [
+                    {
+                        "propertyId": 7404,
+                        "propertyName": "Chất liệu",
+                        "type": 3,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 25184,
+                                "propertyValueName": "Da mềm",
+                                "originalValue": "Da mềm",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/01032022/28f803a49a49c6871e99f981601f251c",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 1646,
+                                "propertyValueRangeName": "Da mềm"
+                            }
+                        ]
+                    },
+                    {
+                        "propertyId": 7403,
+                        "propertyName": "Màu sắc",
+                        "type": 2,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 25181,
+                                "propertyValueName": "Kem",
+                                "originalValue": "Kem",
+                                "value": "F5FFFA",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 1643,
+                                "propertyValueRangeName": "Kem"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "isValid": true,
+            "urlSlug": "giay-sandal-de-the-thao-phoi-khoa-trang-tri-pid-18279",
+            "importTaskId": 957,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 760,
+            "brandRangeName": "Juno",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 14331,
+            "title": "Nhẫn Bạc Nữ Đính Đá Mạ Vàng Trắng AvaJi AVJ.R000571",
+            "merchant": {
+                "id": "797806c3-a48d-415b-9da4-4f3f76c2ddf2",
+                "merchantId": 281,
+                "userId": "8e72d9a3-f51b-48a4-a813-fdbec9cdec78",
+                "name": "thời trang nữ",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 14331,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 1,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-22T00:00:00",
+            "expirationDate": "2022-02-22T00:00:00",
+            "price": 324000,
+            "priceTo": 324000,
+            "categoryIds": [
+                23
+            ],
+            "categoryFullPath": [
+                1,
+                18,
+                23
+            ],
+            "categoryId": 23,
+            "partnerCategoryId": 0,
+            "categoryName": "Trang sức cho nữ",
+            "categoryUrlSlug": "trang-suc-cho-nu",
+            "merchantId": 281,
+            "madeinId": 0,
+            "brandId": 3235,
+            "partnerBrandId": 0,
+            "brandName": "AVAJi",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Nhẫn avaji 252",
+            "variations": [
+                {
+                    "variationId": 29478,
+                    "sku": "Nhẫn avaji 252",
+                    "price": 324000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/6aff8628dc68e0eb9ff9bc3afae6d300",
+                    "quantities": [
+                        {
+                            "warehouseId": "ffe0628c-6312-4717-bd64-63fafdd45aef",
+                            "warehouseName": "quan 9",
+                            "warehouseAddress": "ttt",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "nhan-bac-nu-dinh-da-ma-vang-trang-avaji-avj-r000571-pid-14331",
+            "importTaskId": 942,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2536,
+            "brandRangeName": "AVAJi",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 14377,
+            "title": "Nhẫn Bạc Nữ Đính Đá Mạ Vàng Trắng AvaJi AVJ.R000543",
+            "merchant": {
+                "id": "797806c3-a48d-415b-9da4-4f3f76c2ddf2",
+                "merchantId": 281,
+                "userId": "8e72d9a3-f51b-48a4-a813-fdbec9cdec78",
+                "name": "thời trang nữ",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 14377,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-22T00:00:00",
+            "expirationDate": "2022-02-22T00:00:00",
+            "price": 571000,
+            "priceTo": 571000,
+            "categoryIds": [
+                23
+            ],
+            "categoryFullPath": [
+                1,
+                18,
+                23
+            ],
+            "categoryId": 23,
+            "partnerCategoryId": 0,
+            "categoryName": "Trang sức cho nữ",
+            "categoryUrlSlug": "trang-suc-cho-nu",
+            "merchantId": 281,
+            "madeinId": 0,
+            "brandId": 3235,
+            "partnerBrandId": 0,
+            "brandName": "AVAJi",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Nhẫn avaji 206",
+            "variations": [
+                {
+                    "variationId": 29432,
+                    "sku": "Nhẫn avaji 206",
+                    "price": 571000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/cecc05d083c4895cff959e598e90e184",
+                    "quantities": [
+                        {
+                            "warehouseId": "ffe0628c-6312-4717-bd64-63fafdd45aef",
+                            "warehouseName": "quan 9",
+                            "warehouseAddress": "ttt",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "nhan-bac-nu-dinh-da-ma-vang-trang-avaji-avj-r000543-pid-14377",
+            "importTaskId": 942,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2536,
+            "brandRangeName": "AVAJi",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 14410,
+            "title": "Nhẫn Bạc Nữ Đính Đá Mạ Vàng Trắng AvaJi AVJ.R000442",
+            "merchant": {
+                "id": "797806c3-a48d-415b-9da4-4f3f76c2ddf2",
+                "merchantId": 281,
+                "userId": "8e72d9a3-f51b-48a4-a813-fdbec9cdec78",
+                "name": "thời trang nữ",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 14410,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-22T00:00:00",
+            "expirationDate": "2022-02-22T00:00:00",
+            "price": 324000,
+            "priceTo": 324000,
+            "categoryIds": [
+                23
+            ],
+            "categoryFullPath": [
+                1,
+                18,
+                23
+            ],
+            "categoryId": 23,
+            "partnerCategoryId": 0,
+            "categoryName": "Trang sức cho nữ",
+            "categoryUrlSlug": "trang-suc-cho-nu",
+            "merchantId": 281,
+            "madeinId": 0,
+            "brandId": 3235,
+            "partnerBrandId": 0,
+            "brandName": "AVAJi",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Nhẫn avaji 329",
+            "variations": [
+                {
+                    "variationId": 29555,
+                    "sku": "Nhẫn avaji 329",
+                    "price": 324000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/fbaede8749c7dc917c86d520d9c17804",
+                    "quantities": [
+                        {
+                            "warehouseId": "ffe0628c-6312-4717-bd64-63fafdd45aef",
+                            "warehouseName": "quan 9",
+                            "warehouseAddress": "ttt",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "nhan-bac-nu-dinh-da-ma-vang-trang-avaji-avj-r000442-pid-14410",
+            "importTaskId": 942,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2536,
+            "brandRangeName": "AVAJi",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 14424,
+            "title": "Nhẫn Bạc Nữ Đính Đá Mạ Vàng Trắng AvaJi AVJ.R000567",
+            "merchant": {
+                "id": "797806c3-a48d-415b-9da4-4f3f76c2ddf2",
+                "merchantId": 281,
+                "userId": "8e72d9a3-f51b-48a4-a813-fdbec9cdec78",
+                "name": "thời trang nữ",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 14424,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 1,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-22T00:00:00",
+            "expirationDate": "2022-02-22T00:00:00",
+            "price": 285000,
+            "priceTo": 285000,
+            "categoryIds": [
+                23
+            ],
+            "categoryFullPath": [
+                1,
+                18,
+                23
+            ],
+            "categoryId": 23,
+            "partnerCategoryId": 0,
+            "categoryName": "Trang sức cho nữ",
+            "categoryUrlSlug": "trang-suc-cho-nu",
+            "merchantId": 281,
+            "madeinId": 0,
+            "brandId": 3235,
+            "partnerBrandId": 0,
+            "brandName": "AVAJi",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Nhẫn avaji 257",
+            "variations": [
+                {
+                    "variationId": 29483,
+                    "sku": "Nhẫn avaji 257",
+                    "price": 285000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/28780d47fffc47b2477ec8c07e78df27",
+                    "quantities": [
+                        {
+                            "warehouseId": "ffe0628c-6312-4717-bd64-63fafdd45aef",
+                            "warehouseName": "quan 9",
+                            "warehouseAddress": "ttt",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "nhan-bac-nu-dinh-da-ma-vang-trang-avaji-avj-r000567-pid-14424",
+            "importTaskId": 942,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2536,
+            "brandRangeName": "AVAJi",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 16941,
+            "title": "Đồng hồ Nam Elio EL023-01",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 16941,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-24T00:00:00",
+            "expirationDate": "2022-02-24T00:00:00",
+            "price": 1100000,
+            "priceTo": 1100000,
+            "categoryIds": [
+                44
+            ],
+            "categoryFullPath": [
+                26,
+                41,
+                44
+            ],
+            "categoryId": 44,
+            "partnerCategoryId": 0,
+            "categoryName": "Đồng hồ cho nam",
+            "categoryUrlSlug": "dong-ho-cho-nam",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 3261,
+            "partnerBrandId": 0,
+            "brandName": "ELIO",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Đồng hồ cho nam-74",
+            "variations": [
+                {
+                    "variationId": 32427,
+                    "sku": "EL023-01",
+                    "price": 1100000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/24022022/1705799e6807ecd3f2ae9789bcf441a9",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 25
+                        }
+                    ],
+                    "totalQuantity": 25,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "dong-ho-nam-elio-el023-01-pid-16941",
+            "importTaskId": 951,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2562,
+            "brandRangeName": "ELIO",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 17781,
+            "title": "Đồng hồ Nam Larmes Blackout LM-TF001.SC91S.811.1NB",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 17781,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-25T00:00:00",
+            "expirationDate": "2022-02-25T00:00:00",
+            "price": 3450000,
+            "priceTo": 3450000,
+            "categoryIds": [
+                44
+            ],
+            "categoryFullPath": [
+                26,
+                41,
+                44
+            ],
+            "categoryId": 44,
+            "partnerCategoryId": 0,
+            "categoryName": "Đồng hồ cho nam",
+            "categoryUrlSlug": "dong-ho-cho-nam",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 3277,
+            "partnerBrandId": 0,
+            "brandName": "LARMES",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "ĐH avaji 374",
+            "variations": [
+                {
+                    "variationId": 33469,
+                    "sku": "ĐH avaji 374",
+                    "price": 3450000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/25022022/33f950c6ea48a13f55d3683bd31bdd6a",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "dong-ho-nam-larmes-blackout-lm-tf001-sc91s-811-1nb-pid-17781",
+            "importTaskId": 956,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2578,
+            "brandRangeName": "LARMES",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 13615,
+            "title": "Xiaomi Redmi 9C (4GB/128GB)",
+            "merchant": {
+                "id": "d1f8f243-4bb0-40b1-8628-c498bf1b0462",
+                "merchantId": 12,
+                "name": "Mer",
+                "avatarImage": {
+                    "name": "file",
+                    "description": "123403.png",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/4/8/fc45f3c2-b397-45db-b13c-acbfa9c3d038/123403.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "TP HCM ",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 13615,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-22T00:00:00",
+            "expirationDate": "2022-02-22T00:00:00",
+            "price": 3490000,
+            "priceTo": 3490000,
+            "categoryIds": [
+                75
+            ],
+            "categoryFullPath": [
+                73,
+                74,
+                75
+            ],
+            "categoryId": 75,
+            "partnerCategoryId": 0,
+            "categoryName": "Điện thoại các loại",
+            "categoryUrlSlug": "dien-thoai-cac-loai",
+            "merchantId": 12,
+            "madeinId": 0,
+            "brandId": 2971,
+            "partnerBrandId": 0,
+            "brandName": "Xiaomi",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "246937",
+            "variations": [
+                {
+                    "variationId": 29225,
+                    "sku": "0131491002583",
+                    "price": 3490000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 30883,
+                    "propertyValueName1": "Xám",
+                    "propertyValue1Type": 1,
+                    "propertyValue1RangeId": 0,
+                    "propertyValue1RangeName": "",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22022022/d9bbf1d38d8a4ca957aec12a0630a2b5",
+                    "quantities": [
+                        {
+                            "warehouseId": "fd09fbea-8c1c-4856-9bc8-272bf29b0137",
+                            "warehouseName": "Kho Vân ĐỒn",
+                            "warehouseAddress": " 175 An Dương Vương",
+                            "quantity": 10
+                        }
+                    ],
+                    "totalQuantity": 10,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": [
+                    {
+                        "order": 0,
+                        "propertyId": 7835,
+                        "propertyName": "Màu sắc",
+                        "type": 2,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 30883,
+                                "propertyValueName": "Xám",
+                                "originalValue": "Xám",
+                                "value": "9E9E9E",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22022022/d9bbf1d38d8a4ca957aec12a0630a2b5",
+                                "isDataFromServer": true,
+                                "propertyValueType": 1,
+                                "propertyValueRangeId": 0,
+                                "propertyValueRangeName": ""
+                            },
+                            {
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22022022/c9541b6af01a28528d6afbde4aa64b15",
+                                "isDataFromServer": true,
+                                "propertyValueType": 1
+                            }
+                        ]
+                    },
+                    {
+                        "order": 1,
+                        "propertyId": 7827,
+                        "propertyName": "Camera sau",
+                        "type": 3,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 0,
+                                "propertyValueName": "Chính 13 MP & Phụ 2 MP, 2 MP",
+                                "isDataFromServer": true,
+                                "propertyValueType": 1,
+                                "propertyValueRangeId": 0
+                            },
+                            {
+                                "propertyValueId": 0,
+                                "isDataFromServer": true,
+                                "propertyValueType": 1,
+                                "propertyValueRangeId": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            "isValid": true,
+            "urlSlug": "xiaomi-redmi-9c-4gb-128gb--pid-13615",
+            "importTaskId": 940,
+            "hasWarranty": true,
+            "warranty": {
+                "warrantyId": 6,
+                "warrantyPolicy": "Bảo hành chính hãng",
+                "warrantyForm": [
+                    3
+                ]
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2292,
+            "brandRangeName": "Xiaomi",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [
+                "RAM 4 GB",
+                "Hệ điều hành Android"
+            ],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 1
+        },
+        {
+            "id": 3800,
+            "title": "Áo thun nữ thêu Regular AVAFashion TTC008 - Nâu đỏ",
+            "merchant": {
+                "id": "d1f8f243-4bb0-40b1-8628-c498bf1b0462",
+                "merchantId": 12,
+                "name": "Mer",
+                "avatarImage": {
+                    "name": "file",
+                    "description": "123403.png",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/4/8/fc45f3c2-b397-45db-b13c-acbfa9c3d038/123403.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "TP HCM ",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 3800,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-01-22T00:00:00",
+            "expirationDate": "2022-01-22T00:00:00",
+            "price": 199000,
+            "priceTo": 199000,
+            "categoryIds": [
+                3
+            ],
+            "categoryFullPath": [
+                1,
+                2,
+                3
+            ],
+            "categoryId": 3,
+            "partnerCategoryId": 0,
+            "categoryName": "Áo nữ các loại",
+            "categoryUrlSlug": "ao-nu-cac-loai",
+            "merchantId": 12,
+            "madeinId": 0,
+            "brandId": 1180,
+            "partnerBrandId": 0,
+            "brandName": "AVAFashion",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "T28",
+            "variations": [
+                {
+                    "variationId": 5918,
+                    "sku": "TTC008 - Nâu đỏ -S",
+                    "price": 199000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24021,
+                    "propertyValueName1": "S",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 671,
+                    "propertyValue1RangeName": "S",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/032087a0857a94aff4a371763523ab1c",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5919,
+                    "sku": "TTC008 - Nâu đỏ -M",
+                    "price": 199000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24022,
+                    "propertyValueName1": "M",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 672,
+                    "propertyValue1RangeName": "M",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/032087a0857a94aff4a371763523ab1c",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5920,
+                    "sku": "TTC008 - Nâu đỏ -L",
+                    "price": 199000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24023,
+                    "propertyValueName1": "L",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 673,
+                    "propertyValue1RangeName": "L",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/032087a0857a94aff4a371763523ab1c",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5921,
+                    "sku": "TTC005 - Nâu đỏ -S",
+                    "price": 199000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24021,
+                    "propertyValueName1": "S",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 671,
+                    "propertyValue1RangeName": "S",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/a09be7ba356cabe47ce50bfcb577a2da",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5922,
+                    "sku": "TTC005 - Nâu đỏ -M",
+                    "price": 199000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24022,
+                    "propertyValueName1": "M",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 672,
+                    "propertyValue1RangeName": "M",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/a09be7ba356cabe47ce50bfcb577a2da",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5923,
+                    "sku": "TTC005 - Nâu đỏ -L",
+                    "price": 199000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24023,
+                    "propertyValueName1": "L",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 673,
+                    "propertyValue1RangeName": "L",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/a09be7ba356cabe47ce50bfcb577a2da",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": [
+                    {
+                        "propertyId": 7280,
+                        "propertyName": "Size",
+                        "type": 3,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 24021,
+                                "propertyValueName": "S",
+                                "originalValue": "S",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/032087a0857a94aff4a371763523ab1c",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 671,
+                                "propertyValueRangeName": "S"
+                            },
+                            {
+                                "propertyValueId": 24022,
+                                "propertyValueName": "M",
+                                "originalValue": "M",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/032087a0857a94aff4a371763523ab1c",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 672,
+                                "propertyValueRangeName": "M"
+                            },
+                            {
+                                "propertyValueId": 24023,
+                                "propertyValueName": "L",
+                                "originalValue": "L",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/032087a0857a94aff4a371763523ab1c",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 673,
+                                "propertyValueRangeName": "L"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "isValid": true,
+            "urlSlug": "ao-thun-nu-theu-regular-avafashion-ttc008-nau-do-pid-3800",
+            "importTaskId": 613,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 440,
+            "brandRangeName": "AVAFashion",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 11113,
+            "title": "Nón Bo Lifestyle Unisex Nike Sportswear DC3967",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 11113,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-17T00:00:00",
+            "expirationDate": "2022-02-17T00:00:00",
+            "price": 659000,
+            "priceTo": 659000,
+            "categoryIds": [
+                47
+            ],
+            "categoryFullPath": [
+                26,
+                41,
+                47
+            ],
+            "categoryId": 47,
+            "partnerCategoryId": 0,
+            "categoryName": "Nón cho nam",
+            "categoryUrlSlug": "non-cho-nam",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 1816,
+            "partnerBrandId": 0,
+            "brandName": "Nike",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Nón 13",
+            "variations": [
+                {
+                    "variationId": 24651,
+                    "sku": "DC3967 - Đen",
+                    "price": 659000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/229347087dc756b90e2d467e6471ca45",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "non-bo-lifestyle-unisex-nike-sportswear-dc3967-pid-11113",
+            "importTaskId": 912,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 1112,
+            "brandRangeName": "Nike",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 11069,
+            "title": "Quần short jeans nam slim fit AVAFashion TNCPRS - Xám đậm",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 11069,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-17T00:00:00",
+            "expirationDate": "2022-02-17T00:00:00",
+            "price": 449000,
+            "priceTo": 449000,
+            "categoryIds": [
+                29
+            ],
+            "categoryFullPath": [
+                26,
+                27,
+                29
+            ],
+            "categoryId": 29,
+            "partnerCategoryId": 0,
+            "categoryName": "Quần nam các loại",
+            "categoryUrlSlug": "quan-nam-cac-loai",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 1834,
+            "partnerBrandId": 0,
+            "brandName": "AVAFashion",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Quần short jeans nam slim fit-1",
+            "variations": [
+                {
+                    "variationId": 24620,
+                    "sku": "TNCPRS - Xám đậm",
+                    "price": 449000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/e5ec669d142c07984b8af1970a6a0c6a",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 99
+                        }
+                    ],
+                    "totalQuantity": 99,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "quan-short-jeans-nam-slim-fit-avafashion-tncprs-xam-dam-pid-11069",
+            "importTaskId": 910,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 1130,
+            "brandRangeName": "AVAFashion",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 11137,
+            "title": "Giày Chạy Bộ Nam Adidas Duramo Sl H04622",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 11137,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-17T00:00:00",
+            "expirationDate": "2022-02-17T00:00:00",
+            "price": 1700000,
+            "priceTo": 1700000,
+            "categoryIds": [
+                40
+            ],
+            "categoryFullPath": [
+                26,
+                33,
+                40
+            ],
+            "categoryId": 40,
+            "partnerCategoryId": 0,
+            "categoryName": "Giày thể thao nam",
+            "categoryUrlSlug": "giay-the-thao-nam",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 2291,
+            "partnerBrandId": 0,
+            "brandName": "Adidas",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Giày nam thể thao 1",
+            "variations": [
+                {
+                    "variationId": 24724,
+                    "sku": "H04622 - 39.5",
+                    "price": 1700000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 26930,
+                    "propertyValueName1": "39.5",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 3397,
+                    "propertyValue1RangeName": "39.5",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22022022/14fbca544374a90a249102991650ba19",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 24725,
+                    "sku": "H04622 - 41.5",
+                    "price": 1700000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 26934,
+                    "propertyValueName1": "41.5",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 3401,
+                    "propertyValue1RangeName": "41.5",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22022022/14fbca544374a90a249102991650ba19",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": [
+                    {
+                        "propertyId": 7614,
+                        "propertyName": "Size",
+                        "type": 3,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 26930,
+                                "propertyValueName": "39.5",
+                                "originalValue": "39.5",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22022022/14fbca544374a90a249102991650ba19",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 3397,
+                                "propertyValueRangeName": "39.5"
+                            },
+                            {
+                                "propertyValueId": 26934,
+                                "propertyValueName": "41.5",
+                                "originalValue": "41.5",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22022022/14fbca544374a90a249102991650ba19",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 3401,
+                                "propertyValueRangeName": "41.5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "isValid": true,
+            "urlSlug": "giay-chay-bo-nam-adidas-duramo-sl-h04622-pid-11137",
+            "importTaskId": 915,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 1632,
+            "brandRangeName": "Adidas",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 11146,
+            "title": "Giày Tập Luyện Nam Skechers 220189",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 11146,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-17T00:00:00",
+            "expirationDate": "2022-02-17T00:00:00",
+            "price": 1690000,
+            "priceTo": 1690000,
+            "categoryIds": [
+                40
+            ],
+            "categoryFullPath": [
+                26,
+                33,
+                40
+            ],
+            "categoryId": 40,
+            "partnerCategoryId": 0,
+            "categoryName": "Giày thể thao nam",
+            "categoryUrlSlug": "giay-the-thao-nam",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 2296,
+            "partnerBrandId": 0,
+            "brandName": "Skechers",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Giày nam thể thao 192",
+            "variations": [
+                {
+                    "variationId": 25408,
+                    "sku": "220189 - 39.5",
+                    "price": 1690000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 26930,
+                    "propertyValueName1": "39.5",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 3397,
+                    "propertyValue1RangeName": "39.5",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 25409,
+                    "sku": "220189 - 41",
+                    "price": 1690000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 26933,
+                    "propertyValueName1": "41",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 3400,
+                    "propertyValue1RangeName": "41",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 25410,
+                    "sku": "220189 - 42",
+                    "price": 1690000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 26935,
+                    "propertyValueName1": "42",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 3402,
+                    "propertyValue1RangeName": "42",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 25411,
+                    "sku": "220189 - 43",
+                    "price": 1690000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 26937,
+                    "propertyValueName1": "43",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 3404,
+                    "propertyValue1RangeName": "43",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": [
+                    {
+                        "propertyId": 7614,
+                        "propertyName": "Size",
+                        "type": 3,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 26930,
+                                "propertyValueName": "39.5",
+                                "originalValue": "39.5",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 3397,
+                                "propertyValueRangeName": "39.5"
+                            },
+                            {
+                                "propertyValueId": 26933,
+                                "propertyValueName": "41",
+                                "originalValue": "41",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 3400,
+                                "propertyValueRangeName": "41"
+                            },
+                            {
+                                "propertyValueId": 26935,
+                                "propertyValueName": "42",
+                                "originalValue": "42",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 3402,
+                                "propertyValueRangeName": "42"
+                            },
+                            {
+                                "propertyValueId": 26937,
+                                "propertyValueName": "43",
+                                "originalValue": "43",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/23022022/fa8129164cc142fd93a685a2c1e2f76b",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 3404,
+                                "propertyValueRangeName": "43"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "isValid": true,
+            "urlSlug": "giay-tap-luyen-nam-skechers-220189-pid-11146",
+            "importTaskId": 915,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 1637,
+            "brandRangeName": "Skechers",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 11115,
+            "title": "Nón Thể Thao Unisex Erke 10320311012",
+            "merchant": {
+                "id": "3d92bd2f-3982-47d2-9956-abdc96614654",
+                "merchantId": 282,
+                "userId": "d0644063-3975-4f30-95de-122aca59d2ca",
+                "name": "thời trang nam",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 11115,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-17T00:00:00",
+            "expirationDate": "2022-02-17T00:00:00",
+            "price": 269000,
+            "priceTo": 269000,
+            "categoryIds": [
+                47
+            ],
+            "categoryFullPath": [
+                26,
+                41,
+                47
+            ],
+            "categoryId": 47,
+            "partnerCategoryId": 0,
+            "categoryName": "Nón cho nam",
+            "categoryUrlSlug": "non-cho-nam",
+            "merchantId": 282,
+            "madeinId": 0,
+            "brandId": 1819,
+            "partnerBrandId": 0,
+            "brandName": "Erke",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Nón 15",
+            "variations": [
+                {
+                    "variationId": 24653,
+                    "sku": "10320311012 - Đen",
+                    "price": 269000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/06164232f122e9a80d72db8a89a59011",
+                    "quantities": [
+                        {
+                            "warehouseId": "30c583dc-62a2-41f0-9acb-0539051d38b1",
+                            "warehouseName": "Kho quân 9",
+                            "warehouseAddress": "Binh Dinh",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "non-the-thao-unisex-erke-10320311012-pid-11115",
+            "importTaskId": 912,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 1115,
+            "brandRangeName": "Erke",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 9902,
+            "title": "Mắt kính thời trang Trẻ em Kitten 11011-C11",
+            "merchant": {
+                "id": "30868422-cdcc-4475-9cd5-6f8e04c1f94a",
+                "merchantId": 283,
+                "userId": "3884629c-3844-4b7d-9cae-516b690b70b8",
+                "name": "thời trang trẻ em",
+                "avatarImage": {
+                    "name": "avatar_default.png",
+                    "description": "avatar image default",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/3/22/7247ce68-f276-416d-9aef-33fb704bcc31/avatar_default.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "anim sint esse",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 9902,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-02-17T00:00:00",
+            "expirationDate": "2022-02-17T00:00:00",
+            "price": 290000,
+            "priceTo": 290000,
+            "categoryIds": [
+                637
+            ],
+            "categoryFullPath": [
+                49,
+                67,
+                637
+            ],
+            "categoryId": 637,
+            "partnerCategoryId": 0,
+            "categoryName": "Mắt kính trẻ em",
+            "categoryUrlSlug": "mat-kinh-tre-em",
+            "merchantId": 283,
+            "madeinId": 0,
+            "brandId": 2999,
+            "partnerBrandId": 0,
+            "brandName": "Kitten",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "Mắt kính 78",
+            "variations": [
+                {
+                    "variationId": 21855,
+                    "sku": "11011-C11",
+                    "price": 290000,
+                    "priceStatus": 0,
+                    "propertyValue1Type": 1,
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/23022022/611d3c4023b522d9658d1fabc4c7d4c1",
+                    "quantities": [
+                        {
+                            "warehouseId": "fb58c920-ba97-4a04-be0b-16668ace1dd3",
+                            "warehouseName": "Kho Quận 9",
+                            "warehouseAddress": "test",
+                            "quantity": 20
+                        }
+                    ],
+                    "totalQuantity": 20,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": []
+            },
+            "isValid": true,
+            "urlSlug": "mat-kinh-thoi-trang-tre-em-kitten-11011-c11-pid-9902",
+            "importTaskId": 891,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 2300,
+            "brandRangeName": "Kitten",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 3826,
+            "title": "Áo polo nữ regular AVAFashion TNCPS019 - Hồng ruốc",
+            "merchant": {
+                "id": "d1f8f243-4bb0-40b1-8628-c498bf1b0462",
+                "merchantId": 12,
+                "name": "Mer",
+                "avatarImage": {
+                    "name": "file",
+                    "description": "123403.png",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/4/8/fc45f3c2-b397-45db-b13c-acbfa9c3d038/123403.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "TP HCM ",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 3826,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 0,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-01-22T00:00:00",
+            "expirationDate": "2022-01-22T00:00:00",
+            "price": 329000,
+            "priceTo": 329000,
+            "categoryIds": [
+                3
+            ],
+            "categoryFullPath": [
+                1,
+                2,
+                3
+            ],
+            "categoryId": 3,
+            "partnerCategoryId": 0,
+            "categoryName": "Áo nữ các loại",
+            "categoryUrlSlug": "ao-nu-cac-loai",
+            "merchantId": 12,
+            "madeinId": 0,
+            "brandId": 1180,
+            "partnerBrandId": 0,
+            "brandName": "AVAFashion",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "T6",
+            "variations": [
+                {
+                    "variationId": 5837,
+                    "sku": "TNCPS019 - Hồng ruốc -S",
+                    "price": 329000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24021,
+                    "propertyValueName1": "S",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 671,
+                    "propertyValue1RangeName": "S",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5838,
+                    "sku": "TNCPS019 - Hồng ruốc -M",
+                    "price": 329000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24022,
+                    "propertyValueName1": "M",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 672,
+                    "propertyValue1RangeName": "M",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5839,
+                    "sku": "TNCPS019 - Hồng ruốc -L",
+                    "price": 329000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24023,
+                    "propertyValueName1": "L",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 673,
+                    "propertyValue1RangeName": "L",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5840,
+                    "sku": "TNCPS019 - Hồng ruốc -XL",
+                    "price": 329000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24024,
+                    "propertyValueName1": "XL",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 674,
+                    "propertyValue1RangeName": "XL",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": [
+                    {
+                        "propertyId": 7280,
+                        "propertyName": "Size",
+                        "type": 3,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 24021,
+                                "propertyValueName": "S",
+                                "originalValue": "S",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 671,
+                                "propertyValueRangeName": "S"
+                            },
+                            {
+                                "propertyValueId": 24022,
+                                "propertyValueName": "M",
+                                "originalValue": "M",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 672,
+                                "propertyValueRangeName": "M"
+                            },
+                            {
+                                "propertyValueId": 24023,
+                                "propertyValueName": "L",
+                                "originalValue": "L",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 673,
+                                "propertyValueRangeName": "L"
+                            },
+                            {
+                                "propertyValueId": 24024,
+                                "propertyValueName": "XL",
+                                "originalValue": "XL",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/2597986959d4a14706eee3d932db9a78",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 674,
+                                "propertyValueRangeName": "XL"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "isValid": true,
+            "urlSlug": "ao-polo-nu-regular-avafashion-tncps019-hong-ruoc-pid-3826",
+            "importTaskId": 613,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 440,
+            "brandRangeName": "AVAFashion",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        },
+        {
+            "id": 3834,
+            "title": "Áo thun nữ thêu Regular AVAFashion TTCM007 - Trắng",
+            "merchant": {
+                "id": "d1f8f243-4bb0-40b1-8628-c498bf1b0462",
+                "merchantId": 12,
+                "name": "Mer",
+                "avatarImage": {
+                    "name": "file",
+                    "description": "123403.png",
+                    "filePath": "https://testcdn.vuivui.com/merchant/2022/4/8/fc45f3c2-b397-45db-b13c-acbfa9c3d038/123403.png",
+                    "fileExtension": "image/png"
+                },
+                "address": "TP HCM ",
+                "type": 1
+            },
+            "promotions": [
+                {
+                    "productId": 3834,
+                    "titlePromotion": [],
+                    "moduleType": 0
+                }
+            ],
+            "totalSold": 0,
+            "feeShip": 0,
+            "isLike": 0,
+            "averageStar": 0.0,
+            "totalRating": 0,
+            "totalComment": 5,
+            "totalLike": 0,
+            "totalShare": 0,
+            "availability": 0,
+            "availabilityDate": "2022-01-22T00:00:00",
+            "expirationDate": "2022-01-22T00:00:00",
+            "price": 229000,
+            "priceTo": 229000,
+            "categoryIds": [
+                3
+            ],
+            "categoryFullPath": [
+                1,
+                2,
+                3
+            ],
+            "categoryId": 3,
+            "partnerCategoryId": 0,
+            "categoryName": "Áo nữ các loại",
+            "categoryUrlSlug": "ao-nu-cac-loai",
+            "merchantId": 12,
+            "madeinId": 0,
+            "brandId": 1180,
+            "partnerBrandId": 0,
+            "brandName": "AVAFashion",
+            "modelId": 0,
+            "modelName": "",
+            "sku": "T14",
+            "variations": [
+                {
+                    "variationId": 5869,
+                    "sku": "TTCM007 - Trắng -S",
+                    "price": 229000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24021,
+                    "propertyValueName1": "S",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 671,
+                    "propertyValue1RangeName": "S",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5870,
+                    "sku": "TTCM007 - Trắng -M",
+                    "price": 229000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24022,
+                    "propertyValueName1": "M",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 672,
+                    "propertyValue1RangeName": "M",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5871,
+                    "sku": "TTCM007 - Trắng -L",
+                    "price": 229000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24023,
+                    "propertyValueName1": "L",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 673,
+                    "propertyValue1RangeName": "L",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                },
+                {
+                    "variationId": 5872,
+                    "sku": "TTCM007 - Trắng -XL",
+                    "price": 229000,
+                    "priceStatus": 0,
+                    "propertyValueId1": 24024,
+                    "propertyValueName1": "XL",
+                    "propertyValue1Type": 2,
+                    "propertyValue1RangeId": 674,
+                    "propertyValue1RangeName": "XL",
+                    "propertyValue2Type": 1,
+                    "variationImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                    "quantities": [
+                        {
+                            "warehouseId": "a5c99483-d336-4428-a47f-39a98340279b",
+                            "warehouseName": "",
+                            "warehouseAddress": "",
+                            "quantity": 50
+                        }
+                    ],
+                    "totalQuantity": 50,
+                    "quantitySold": 0,
+                    "isEnabled": true
+                }
+            ],
+            "variationConfigs": {
+                "isSingleVariation": true,
+                "configs": [
+                    {
+                        "propertyId": 7280,
+                        "propertyName": "Size",
+                        "type": 3,
+                        "propertyValues": [
+                            {
+                                "propertyValueId": 24021,
+                                "propertyValueName": "S",
+                                "originalValue": "S",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 671,
+                                "propertyValueRangeName": "S"
+                            },
+                            {
+                                "propertyValueId": 24022,
+                                "propertyValueName": "M",
+                                "originalValue": "M",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 672,
+                                "propertyValueRangeName": "M"
+                            },
+                            {
+                                "propertyValueId": 24023,
+                                "propertyValueName": "L",
+                                "originalValue": "L",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 673,
+                                "propertyValueRangeName": "L"
+                            },
+                            {
+                                "propertyValueId": 24024,
+                                "propertyValueName": "XL",
+                                "originalValue": "XL",
+                                "value": "",
+                                "propertyValueImage": "https://testcdn.vuivui.com/product/22012022/0b65d34e01ae22d3f2e4b4135be24a12",
+                                "isDataFromServer": true,
+                                "propertyValueType": 2,
+                                "propertyValueRangeId": 674,
+                                "propertyValueRangeName": "XL"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "isValid": true,
+            "urlSlug": "ao-thun-nu-theu-regular-avafashion-ttcm007-trang-pid-3834",
+            "importTaskId": 613,
+            "hasWarranty": false,
+            "warranty": {
+                "warrantyPolicy": "",
+                "warrantyForm": []
+            },
+            "isEnableBuyNow": false,
+            "brandRangeType": 2,
+            "brandRangeId": 440,
+            "brandRangeName": "AVAFashion",
+            "sessionId": "",
+            "comboVariations": [],
+            "productType": 1,
+            "averageRating": 0.0,
+            "propertyFeatured": [],
+            "hashtag": [],
+            "configDetailLayout": 2,
+            "layoutType": 2
+        }
+    ],
+    "isError": false,
+    "totalObject": 20,
+    "totalRemain": 29,
+    "page": 0,
+    "pageSize": 20,
+    "totalPage": 1
+}

@@ -1,0 +1,76 @@
+{
+	"root": true,
+	"parser": "@typescript-eslint/parser",
+	"extends": [
+		"prettier",
+		"plugin:react/recommended",
+		"plugin:react-hooks/recommended",
+		"plugin:jsx-a11y/strict",
+		"plugin:tailwindcss/recommended",
+		"plugin:jest-dom/recommended"
+	],
+	"plugins": [
+		"jsx-a11y",
+		"react",
+		"react-hooks",
+		"jest-dom",
+		"@typescript-eslint",
+		"tailwindcss",
+		"simple-import-sort",
+		"import",
+		"prettier"
+	],
+	"env": {
+		"es6": true,
+		"browser": true,
+		"jest": true,
+		"node": true
+	},
+	"rules": {
+		"react-hooks/rules-of-hooks": 2,
+		"react-hooks/exhaustive-deps": 1,
+		"jsx-a11y/anchor-is-valid": 0,
+		"@typescript-eslint/no-unused-vars": [
+			"error",
+			{
+				"vars": "all",
+				"args": "none",
+				"argsIgnorePattern": "^_",
+				"varsIgnorePattern": "^_",
+				"caughtErrorsIgnorePattern": "^_",
+				"ignoreRestSiblings": false
+			}
+		],
+		"react/react-in-jsx-scope": 0,
+		"react/display-name": 0,
+		"react/prop-types": 0,
+		"@typescript-eslint/explicit-member-accessibility": 0,
+		"@typescript-eslint/indent": 0,
+		"@typescript-eslint/member-delimiter-style": 0,
+		"@typescript-eslint/no-var-requires": 0,
+		"@typescript-eslint/no-use-before-define": 0,
+		"@typescript-eslint/explicit-function-return-type": 0,
+		"@typescript-eslint/no-explicit-any": 0,
+		"@typescript-eslint/no-non-null-assertion": 0,
+		"no-undef": 0,
+		"no-console": 1,
+		"no-unused-vars": 0,
+		"jsx-a11y/label-has-for": 0,
+		"jsx-a11y/no-noninteractive-tabindex": 0,
+		"prettier/prettier": 0,
+		"react/no-unescaped-entities": 0,
+		"tailwindcss/classnames-order": [
+			0,
+			{
+				"officialSorting": true
+			}
+		],
+		"tailwindcss/no-custom-classname": 0,
+		"simple-import-sort/imports": 2,
+		"import/no-duplicates": 2
+	},
+	"parserOptions": {
+		"ecmaVersion": 12,
+		"sourceType": "module"
+	}
+}

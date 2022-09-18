@@ -1,0 +1,98 @@
+stages:
+  - deploy
+
+variables:
+  #GIT_STRATEGY: none
+  SERVICE_NAME: "vuivui.ecommerce"
+  FILE_PUBLISH: "$SERVICE_NAME.tar"  
+  IMAGE_NAME: "git.vuivui.com:5050/buyer/website/vuivui.ecommerce"
+  IMAGE_NAME_NEXT: "$IMAGE_NAME:$CI_PIPELINE_IID-$CI_COMMIT_REF_NAME"
+  #PACKAGE_CONFIG: "package.json"
+  #SERVER_JS: "server.js"
+
+before_script:
+  - free -h
+  - docker image ls
+  #- git pull origin dev
+  - echo "$VUIVUI_GITLAB_REGISTRY_TOKEN" | docker login git.vuivui.com:5050 --username $VUIVUI_GITLAB_REGISTRY_USER --password-stdin
+
+deploy_testing:
+  stage: deploy
+  tags:
+    - k8s
+    - nodejs
+  only:
+    - dev
+  script:
+    - >
+      echo -e
+      config "\n"
+      "    " image_name: "$IMAGE_NAME_NEXT\n"
+      "    " file publish: "$FILE_PUBLISH\n"
+    #- ls -al
+    #- yarn cache dir
+    #- yarn cache list
+    #- yarn add sharp
+    #- yarn
+    #- yarn build
+    #- rm $FILE_PUBLISH || true
+    #- tar --totals -cf $FILE_PUBLISH node_modules  $PACKAGE_CONFIG $SERVER_JS .next
+    #- ls
+    - >
+      DOCKER_BUILDKIT=1
+      docker build 
+      -t $IMAGE_NAME_NEXT
+      --add-host=testapi.vuivui.com:172.16.97.37
+      --add-host=test.vuivui.com:172.16.97.37
+      --rm
+      --build-arg ECOM_BUILD_STAGE=build
+      -f Dockerfile .
+    - docker push $IMAGE_NAME_NEXT
+    - export KUBECONFIG=/home/gitlab-runner/.kube/kubeconfig
+    - kubectl set image deployment/ecommerce-deployment -n=frontend-web ecommerce=$IMAGE_NAME_NEXT
+    - docker images | grep $IMAGE_NAME || true
+    - docker rmi $(docker images | grep $IMAGE_NAME) || true
+    - docker container prune -f || true
+    - docker rmi $(docker images --filter "dangling=true" -q --no-trunc) || true
+  when: always
+  cache:
+    paths:
+      - build
+      - node_modules/
+      - .next/cache/
+
+deploy_production:
+  stage: deploy
+  tags:
+    - k8s-stg
+    - nodejs
+  only:
+    - master
+  script:
+    - >
+      echo -e
+      config "\n"
+      "    " image_name: "$IMAGE_NAME_NEXT\n"
+      "    " file publish: "$FILE_PUBLISH\n"
+    - >
+      DOCKER_BUILDKIT=1
+      docker build 
+      -t $IMAGE_NAME_NEXT
+      --add-host=stgapi.vuivui.com:172.16.97.49
+      --add-host=stg.vuivui.com:172.16.97.49
+      --rm
+      --build-arg ECOM_BUILD_STAGE=build:staging
+      -f Dockerfile .
+    - docker push $IMAGE_NAME_NEXT
+    - export KUBECONFIG=/home/gitlab-runner/.kube/kubeconfig-stg
+    - kubectl set image deployment/ecommerce-deployment -n=frontend-web ecommerce=$IMAGE_NAME_NEXT
+    - docker images | grep $IMAGE_NAME || true
+    - docker rmi $(docker images | grep $IMAGE_NAME) || true
+    - docker container prune -f || true
+    - docker rmi $(docker images --filter "dangling=true" -q --no-trunc) || true
+  when: always
+  cache:
+    paths:
+      - build
+      - node_modules/
+      - .next/cache/

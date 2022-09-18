@@ -1,0 +1,202 @@
+import { TYPE_SEARCH } from 'enums';
+import dynamic from 'next/dynamic';
+import React, { FC, MouseEventHandler, useEffect, useMemo, useRef } from 'react';
+import { numberWithCommas } from 'utils';
+import { roundNumber } from 'utils/methods';
+
+import { IItemFilter } from '@/modules/filterProperty';
+
+import { IBottomFilter } from './BottomFilter';
+
+export interface IFilterPrice {
+	className?: string;
+	onClickOutside?: MouseEventHandler;
+	maxPrice?: number | string;
+	count?: number;
+	onSelect?: (value: { id?: number | string; label?: string }) => void;
+	handleSearch?: any;
+	defaultSelected?: Array<IItemFilter>;
+	handleCancel?: any;
+	loading?: boolean;
+}
+
+const RANGE_START_DEFAULT = 0;
+
+const BottomFilter = dynamic(() => import('./BottomFilter'), { ssr: false }) as FC<IBottomFilter>;
+
+const FilterPrice: React.FC<IFilterPrice> = ({
+	className,
+	onClickOutside,
+	maxPrice,
+	count,
+	onSelect,
+	defaultSelected,
+	handleCancel,
+	handleSearch,
+	loading,
+}) => {
+	const ref = useRef<HTMLDivElement>(null);
+	const refSlider1 = useRef<HTMLInputElement>(null);
+	const refSlider2 = useRef<HTMLInputElement>(null);
+	const refTrack = useRef<HTMLDivElement>(null);
+	const refPrice1 = useRef<HTMLDivElement>(null);
+	const refPrice2 = useRef<HTMLDivElement>(null);
+
+	const minGap = useMemo(() => {
+		if (maxPrice) {
+			return Number(maxPrice) * 0.1;
+		}
+		return 0;
+	}, [maxPrice]);
+
+	useEffect(() => {
+		if (refSlider1.current && refSlider2.current && refTrack.current && defaultSelected) {
+			let filterPrice = defaultSelected?.filter((item) => item.type === TYPE_SEARCH.PRICE);
+			let arrPrice: any = [];
+			if (filterPrice?.length) {
+				arrPrice = filterPrice[0]?.label?.split('-') || [];
+				refSlider1.current.value = arrPrice[0]?.trim() || '';
+				refSlider2.current.value = arrPrice[1]?.trim() || '';
+			} else {
+				refSlider1.current.value = `${RANGE_START_DEFAULT}`;
+				refSlider2.current.value = maxPrice ? `${maxPrice}` : '';
+			}
+			slideOne();
+			slideTwo();
+		}
+	}, [refSlider1, refSlider2, refTrack, defaultSelected]);
+
+	const slideOne = () => {
+		if (refSlider2.current && refSlider1.current) {
+			if (parseInt(refSlider2.current.value) - parseInt(refSlider1.current.value) <= minGap) {
+				refSlider1.current.value = `${parseInt(refSlider2.current.value) - minGap}`;
+			}
+			const newValue = Number(
+				((Number(refSlider1.current.value) - Number(refSlider1.current.min)) * 100) /
+					(Number(refSlider1.current.max) - Number(refSlider1.current.min)),
+			);
+			const newPosition = -10 - newValue * 0.5;
+			if (refPrice1.current) {
+				if (Number(refSlider1.current.value) >= 1000000) {
+					const numberRouned = roundNumber(Number(refSlider1.current.value) / 1000000, 2);
+					refPrice1.current.innerHTML = `${numberRouned} triệu`;
+				} else {
+					refPrice1.current.innerHTML = `${numberWithCommas(refSlider1.current.value, '.')}đ`;
+				}
+				refPrice1.current.style.left = `calc(${newValue}% + (${newPosition}px))`;
+			}
+			fillColor();
+		}
+	};
+
+	const slideTwo = () => {
+		if (refSlider2.current && refSlider1.current) {
+			if (parseInt(refSlider2.current.value) - parseInt(refSlider1.current.value) <= minGap) {
+				refSlider2.current.value = `${parseInt(refSlider1.current.value) + minGap}`;
+			}
+			const newValue = Number(
+				((Number(refSlider2.current.value) - Number(refSlider2.current.min)) * 100) /
+					(Number(refSlider2.current.max) - Number(refSlider2.current.min)),
+			);
+			const newPosition = -10 - newValue * 0.5;
+			if (refPrice2.current) {
+				if (Number(refSlider2.current.value) >= 1000000) {
+					const numberRouned = roundNumber(Number(refSlider2.current.value) / 1000000, 2);
+					refPrice2.current.innerHTML = `${numberRouned} triệu`;
+				} else {
+					refPrice2.current.innerHTML = `${numberWithCommas(refSlider2.current.value, '.')}đ`;
+				}
+
+				refPrice2.current.style.left = `calc(${newValue}% + (${newPosition}px))`;
+			}
+			fillColor();
+		}
+	};
+
+	const fillColor = () => {
+		if (refSlider1.current && refSlider2.current && refTrack.current) {
+			const percent1 = (Number(refSlider1.current.value) / Number(refSlider1.current.max)) * 100;
+			const percent2 = (Number(refSlider2.current.value) / Number(refSlider1.current.max)) * 100;
+			refTrack.current.style.background = `linear-gradient(to right, #dadae5 ${percent1}% , #F05A94 ${percent1}% , #F05A94 ${percent2}%, #dadae5 ${percent2}%)`;
+		}
+	};
+
+	useEffect(() => {
+		const handleClickOutside = (event: any) => {
+			if (ref.current && !ref.current.contains(event.target)) {
+				onClickOutside && onClickOutside(event);
+			}
+		};
+		document.addEventListener('click', handleClickOutside);
+		return () => {
+			document.removeEventListener('click', handleClickOutside);
+		};
+	}, [ref, onClickOutside]);
+
+	const handleSelect = () => {
+		if (refSlider1.current && refSlider2.current) {
+			onSelect &&
+				onSelect({
+					id: `${refSlider1.current.value}-${refSlider2.current.value}`,
+					label: `${refSlider1.current.value} - ${refSlider2.current.value}`,
+				});
+		}
+	};
+
+	return (
+		<div
+			className={`absolute w-688px bg-white border border-light-E0E0E0 z-10 top-16 ${
+				className || ''
+			}`}
+			ref={ref}
+		>
+			<div className='mt-4'>
+				<div className='mx-4 flex justify-between text-16 text-999999'>
+					<span>Thấp nhất</span>
+					<span>Cao nhất</span>
+				</div>
+				<div className='m-auto mb-8 flex w-4/5 justify-center'>
+					<div className='relative mt-16 w-full'>
+						<div className='absolute inset-y-0 m-auto h-5px w-full rounded-[5px]' ref={refTrack} />
+						<div
+							className='absolute top-[-45px] min-w-max rounded-sm border border-light-E0E0E0 px-3 text-16'
+							ref={refPrice1}
+						/>
+						<div
+							className='absolute top-[-45px] min-w-max rounded-sm border border-light-E0E0E0 px-3 text-16'
+							ref={refPrice2}
+						/>
+						<input
+							step={10000}
+							type='range'
+							min='0'
+							max={maxPrice}
+							ref={refSlider1}
+							onInput={slideOne}
+							onMouseUp={handleSelect}
+							className='rangeInput pointer-events-none absolute inset-y-0 m-auto w-full appearance-none bg-transparent outline-none'
+						/>
+						<input
+							step={10000}
+							type='range'
+							min='0'
+							max={maxPrice}
+							onInput={slideTwo}
+							onMouseUp={handleSelect}
+							ref={refSlider2}
+							className='rangeInput pointer-events-none absolute inset-y-0 m-auto w-full appearance-none bg-transparent outline-none'
+						/>
+					</div>
+				</div>
+				<BottomFilter
+					count={count}
+					handleCancel={handleCancel}
+					handleSearch={handleSearch}
+					loading={loading}
+				/>
+			</div>
+		</div>
+	);
+};
+
+export default FilterPrice;
